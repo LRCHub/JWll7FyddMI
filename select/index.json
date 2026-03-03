@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "プロローグ",
+  "base_artist": "Uru",
+  "createdAt": "2026-03-03T23:55:27.977546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Out of Darkness (プロローグ)",
+      "artist": "柴田徹也",
+      "has_synced": false,
+      "path": "select/01_Out_of_Darkness_(プロローグ)_柴田徹也.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プロローグ",
+      "artist": "真鍋和 (CV:藤東知夏)",
+      "has_synced": false,
+      "path": "select/02_プロローグ_真鍋和_(CV_藤東知夏).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プロローグ",
+      "artist": "真鍋和(CV:藤東知夏)",
+      "has_synced": false,
+      "path": "select/03_プロローグ_真鍋和(CV_藤東知夏).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プロローグ",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/04_プロローグ_Uru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プロローグ",
+      "artist": "藤東知夏",
+      "has_synced": false,
+      "path": "select/05_プロローグ_藤東知夏.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プロローグ (THE HERO ver.)",
+      "artist": "Ichirou Mizuki",
+      "has_synced": false,
+      "path": "select/06_プロローグ_(THE_HERO_ver.)_Ichirou_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プロローグ（THE HERO ver.）",
+      "artist": "Mizuki, Ichirou",
+      "has_synced": false,
+      "path": "select/07_プロローグ(THE_HERO_ver.)_Mizuki,_Ichirou.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プロローグ・・・夢がたり",
+      "artist": "久保田 早紀",
+      "has_synced": false,
+      "path": "select/08_プロローグ・・・夢がたり_久保田_早紀.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プロローグ・・・夢がたり",
+      "artist": "久保田早紀",
+      "has_synced": false,
+      "path": "select/09_プロローグ・・・夢がたり_久保田早紀.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プロローグ",
+      "artist": "真鍋和 (藤東知夏)",
+      "has_synced": false,
+      "path": "select/10_プロローグ_真鍋和_(藤東知夏).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Out of Darkness (プロローグ)",
+      "artist": "Capcom Sound Team",
+      "has_synced": true,
+      "path": "select/11_Out_of_Darkness_(プロローグ)_Capcom_Sound_Team.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "プロローグ～edge of the unknown～",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/12_プロローグ~edge_of_the_unknown~_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "秘密～プロローグ～",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/13_秘密~プロローグ~_Yui_Horie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロローグ",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_プロローグ_Uru.txt"
+    }
+  ]
+}
